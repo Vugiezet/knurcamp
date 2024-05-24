@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     }
     struct czlowiek czl, *p_czl = &czl;
     czl.wiek = 2137;
-    czl.imie = "Knur";
+    czl.imie = "Knasdfasdfasdfasdfadfsasdfasdfasdfdfasasdfasdfur";
     czl.zawod = "Dla rodziny";
     fileFunction(argv[1], argv[2], p_czl);
     return 0;
